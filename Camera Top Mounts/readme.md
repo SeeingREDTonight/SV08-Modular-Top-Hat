@@ -1,0 +1,1 @@
+Two Variants of each camera mount, long and short. Use short if only using basic LED backlit panels behind it, use long if using at least one of any other panel behind it.
