@@ -1,0 +1,1 @@
+Two Variants - One uses a longer, custom length extrusion and smaller printed parts, likely to be stiffer. The other uses an off the shelf 400mm extrusion.
